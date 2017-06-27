@@ -2092,6 +2092,19 @@ input[type=checkbox]:checked:after {
 	padding-left:30px;
 	display:inline-block;
 }
+.end-story-content-box{
+	padding-left:0;
+	padding-right:0;
+}
+.end-story-content-box ul{
+	margin:0;
+	padding:0;
+}
+.end-story-content-box ul li{
+	display:block;
+	list-style:none;
+	padding-bottom:10px;
+}
 @media only screen and (max-width: 1024px) {
     .navbar-nav li a{
         padding: 10px 2.1vw;
